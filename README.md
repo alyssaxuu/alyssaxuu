@@ -6,8 +6,8 @@
 
 I'm a serial entrepreneur who has shipped 12+ products, been twice a **Maker of The Year** finalist, and created some of the top products on [Product Hunt](https://www.producthunt.com/@alyssaxuu). Featured in [Fast Company](https://www.fastcompany.com/90716825/chrome-firefox-extension-more-keyboard-shortcuts?partner=rss&utm_source=twitter.com&utm_medium=social&utm_campaign=rss+fastcompany&utm_content=rss), [YCombinator HN](https://news.ycombinator.com/item?id=25150804), [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/smashing-newsletter-issue-244/), [Awwwards](https://www.awwwards.com/sites/sonuum), [Women Who Design](https://womenwho.design/), [Product Hunt](https://www.producthunt.com/@alyssaxuu), [Sidebar](https://sidebar.io/), [CSS-Tricks](https://css-tricks.com/), [Muzli](https://muz.li/), [HeyDesigner](https://heydesigner.com/), [Changelog](https://changelog.com/person/alyssaxuu), [Codrops](https://tympanus.net/codrops/collective/collective-569/), [HackerNoon](https://hackernoon.com/), [Google Open Source Peer Bonus](https://opensource.googleblog.com/2022/03/Announcing-First-Group-of-Google-Open-Source-Peer-Bonus-Winners-in-2022.html#:~:text=Wednesday%2C%20March%2030%2C%202022&text=We%20are%20honored%20to%20present,loved%20initiative%20within%20open%20source.), and more.
 
-<a href="htps://twitter.com/alyssaxuu" target="_blank" styles="display:inline-block"><img src="https://user-images.githubusercontent.com/7581348/177039217-cc5570da-49ca-4752-9200-c7e29eaa6544.png" height="32px"></a>
-<a href="htps://github.com/sponsors/alyssaxuu" target="_blank" styles="display:inline-block;margin-left:20px;left:20px;"><img src="https://user-images.githubusercontent.com/7581348/177039317-d5a9c14c-eda1-405a-b46d-29bc7e57b554.png" height="32px"></a>
+[<img src="https://user-images.githubusercontent.com/7581348/177039217-cc5570da-49ca-4752-9200-c7e29eaa6544.png" height="32px">](https://twitter.com/alyssaxuu)
+[<img src="https://user-images.githubusercontent.com/7581348/177039317-d5a9c14c-eda1-405a-b46d-29bc7e57b554.png" height="32px">](https://github.com/sponsors/alyssaxuu)
 
 ##### PRODUCTS
 
