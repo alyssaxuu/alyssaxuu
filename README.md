@@ -1,5 +1,3 @@
-## Hey there, I'm [Alyssa X 👋](https://twitter.com/alyssaxuu)
-
 [<img src="https://user-images.githubusercontent.com/7581348/177038557-8f9471ee-b17c-48be-b1c9-7a4ca0bd4858.gif" height="300px">](https://twitter.com/alyssaxuu)
 
 > You can follow my maker journey by [subscribing to my newsletter 💌](https://newsletter.alyssax.com)
