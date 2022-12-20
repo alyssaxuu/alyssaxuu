@@ -10,6 +10,7 @@ I'm a serial entrepreneur who has shipped 12+ products, been twice a **Maker of 
 ##### PRODUCTS
 
 - [✨ Flowy](https://github.com/alyssaxuu/flowy), a minimal flowcharting library.
+- [♻️ EcoSnap](https://github.com/alyssaxuu/ecosnap), an app to help you recycle plastics better using Artificial Intelligence (built with [Leonor Furtado](https://github.com/leolioness1))
 - [📽 Motionity](https://motionity.app), a web-based motion graphics editor (a mix of Canva and After Effects).
 - [🗺️ Mapus](https://www.producthunt.com/products/mapus#mapus), an open source map tool with real-time collaboration ([Golden Kitty Awards finalist](https://www.producthunt.com/golden-kitty-awards-2021) & [#3 Product of The Week](https://www.producthunt.com/products/mapus#mapus)).
 - [🖱️ Later](https://getlater.app), a menu bar app for Mac to save apps for later (over 1000 copies sold & [>$7K made](https://medium.com/women-make/how-i-built-a-macos-app-and-made-5000-in-a-week-de25c7be0458)).
